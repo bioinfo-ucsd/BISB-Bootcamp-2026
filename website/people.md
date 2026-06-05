@@ -93,7 +93,7 @@ These students will sit on a panel for Q&A during the Internships session
 
 *Since the BISB Student Discord is completely student-run, we ask that you do not share the invite link with faculty or staff members.*
 
-**For questions about specifics of the program and program requirements,** please contact the Student Affairs Manager Vanessa Hollingsworth (bisbsupport@ucsd.edu and cc vkhollin@ucsd.edu).
+**For questions about specifics of the program and program requirements,** please contact the BISB Graduate Program Coordinator Amber Christensen (bisbsupport@ucsd.edu and cc alchristensen@ucsd.edu).
 
 ## Credits
 
@@ -105,4 +105,4 @@ Bootcamp content is either newly generated or adapted from previous years' work.
 - Owen Chapman, 2019-2020
 - Jessica Zhou, 2018-2019
 
-Past bootcamp instructors from 2023 & 2024 also contributed to the foundation of this content.
+Past bootcamp instructors from 2023-2025 also contributed to the foundation of this content.
