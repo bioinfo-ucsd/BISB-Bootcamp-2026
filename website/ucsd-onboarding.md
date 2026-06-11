@@ -15,7 +15,7 @@ nav_order: 6
 
 ## Setup your UCSD Student account
 
-See instructions to [Activate and Access your New Student Account](https://support.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033344&sys_kb_id=895a32351b9e4d50506f64e8624bcb02) from UCSD IT Support. After completion, you should have a PID (Personal IDentification number) in the format A########, a @ucsd email address, and functioning DUO two-step login.
+See instructions to [Activate and Access your New Student Account](https://support.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033344&sys_kb_id=895a32351b9e4d50506f64e8624bcb02) from UCSD IT Support. After completion, you should have a TSN (Triton Student Number), which is a 9-digit number, a @ucsd email address, and functioning DUO two-step login.
 
 Emails from Bootcamp Instructors, as well as future emails from BISB will be sent to your @ucsd email.
 
@@ -23,11 +23,11 @@ See the [Computer Accounts and Resources](https://bioinformatics.ucsd.edu/node/3
 
 ## Enroll in Fall courses
 
-The Schedule of Classes, which lists courses available for the quarter, for Fall 2025 will be made available on **May**.
+The Schedule of Classes, which lists courses available for the quarter, for Fall 2026 is anticipated to be made available in **July**. *(Note: For this year only, the Schedule of Classes and the start of Fall enrollment are postponed to July, but are anticipated to return to May next year.)*
 
-You can find the Schedule of Classes, along with other important services, on the [My TritonLink Tools page](https://students.ucsd.edu/my-tritonlink/tools/index.html). You will be able to enroll in classes beginning **May**.
+You can find the Schedule of Classes, along with other important services, on the [My TritonLink Tools page](https://students.ucsd.edu/my-tritonlink/tools/index.html). You will be able to enroll in classes beginning in **July**.
 
-You may enroll in courses online using WebReg, which can also be found on My TritonLink Tools. You can find enrollment dates, and many other important dates and deadlines, on the [UCSD Enrollment & Registration Calendar](https://students.ucsd.edu/academics/enroll/calendar25-26.html). We highly recommended you bookmark this page to stay up-to-date on important deadlines.
+You may enroll in courses online using WebReg, which can also be found on My TritonLink Tools. You can find enrollment dates, and many other important dates and deadlines, on the [UCSD Enrollment & Registration Calendar](https://students.ucsd.edu/academics/enroll/calendar26-27.html). We highly recommended you bookmark this page to stay up-to-date on important deadlines.
 
 >**NOTE:** Registration can always be changed later. As such, it is not *urgently* required that you enroll in classes. That being said, Computer Science and Engineering (CSE) courses tend to fill up quickly, so we suggest starting to explore these. If a CSE course of interest is full, many students have found success in emailing the professor. In addition, many courses – particularly MED and BMI courses – are not listed on WebReg until closer to the start of the Fall quarter.
 
@@ -39,11 +39,11 @@ As a graduate student, you should make sure to obtain a [UCSD Campus ID Card](ht
 
 In order to obtain your ID card, you will need to provide a picture (instructions at the above link) and then pick up your ID card from the Campus Card Office when you arrive on campus.
 
-BISB will not be distributing cards, so you must pick up the ID card directly from the Campus Card Office yourself. You will need to provide your campus ID card at the Graduate Division Resource Fair in September, so you should plan to pick up your ID card before then.
+BISB will not be distributing cards, so you must pick up the ID card directly from the Campus Card Office yourself. You will need to provide your campus ID card at the GEPA (Division of Graduate Education and Postdoctoral Affairs) Resource Fair in September, so you should plan to pick up your ID card before then.
 
 ## Graduate Student Orientation
 
-The UCSD Graduate Division office has a short online orientation designed to support incoming graduate students and facilitate a successful transition to graduate school. This course will be accessible through the UCSD Canvas website once the university sets up your UCSD account, so keep an eye out for additional emails from the Graduate Division. You can also find more information on the [Graduate Division website](https://grad.ucsd.edu/student-life/events/orientation/index.html).
+The UCSD GEPA office has a short online orientation designed to support incoming graduate students and facilitate a successful transition to graduate school. This course will be accessible through the UCSD Canvas website once the university sets up your UCSD account, so keep an eye out for additional emails from GEPA. You can also find more information on the [GEPA website](https://grad.ucsd.edu/student-life/events/orientation/index.html).
 
 ## For International Students
 
@@ -59,4 +59,3 @@ If you have questions about your visa, CPT, OPT, etc., we encourage you to speak
 ## Establish California Residency for Tuition Purposes
 
 The University of California requires students to be California residents to receive lower in-state tuition. To be considered a California resident, you must demonstrate your intent of residence and submit appropriate documentation to the university. See UCSD's [About Residence for Tuition Purposes page](https://students.ucsd.edu/finances/fees/residence/about.html) for more information.
-
