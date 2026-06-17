@@ -20,7 +20,7 @@ If you are unable to attend a seminar or you would like to rewatch a talk, we wi
 - **August 27th, 2026**: 12:00 PM-1:00 PM PDT
 - **September 3rd, 2026**: 12:00 PM-1:00 PM PDT
 
-Join recorded talks at: [https://ucsd.zoom.us/j/3102371470](https://ucsd.zoom.us/j/3102371470)
+Join recorded talks at: [https://ucsd.zoom.us/j/3102371470](https://ucsd.zoom.us/j/95841526554)
 
 ![Summer Seminar Series Flyer]({{ site.baseurl }}/assets/images/summer_seminar_2025_flyer.jpg)
 
