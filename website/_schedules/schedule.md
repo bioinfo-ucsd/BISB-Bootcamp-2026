@@ -156,7 +156,7 @@ schedule:
         start: '1:30 PM'
         end: '5:30 PM'
         location: UCSD Challenge Course (Eucalyptus Grove)
-        description: Read about [the course](https://recreation.ucsd.edu/adventures/the-course/)!
+        description: Read about [the course](https://recreation.ucsd.edu/adventures/challenge-course/)!
 
   - name: Thursday 
     date: '2026-09-17'
