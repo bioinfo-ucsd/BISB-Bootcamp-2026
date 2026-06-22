@@ -3,7 +3,6 @@ timeline:
   - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
-  - '10:45 AM'
   - '11:00 AM'
   - '11:30 AM'
   - '12:00 PM'
@@ -17,6 +16,7 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
+  - '5:30 PM'
 types:
   - id: mod
     name: Module 
@@ -30,172 +30,207 @@ types:
     name: Other
 schedule:
   - name: Monday
-    date: '2025-09-15'
+    date: '2026-09-14'
     events:
       - name: Opening Remarks
         type: program
-        location: MET 204
+        location: RM 145
         start: "9:30 AM"
         end: "10:30 AM"
         instructors: ["Terry Gaasterland, *BISB Program Chair*"]
         description: "Welcome to the BISB/BMI graduate program! Our program directors will provide an overview of the Bioinformatics and Systems Biology graduate program."
       - name: BISB Administrative Overview
         type: program
-        location: MET 204
-        start: "10:45 AM"
-        end: "12:00 PM"
-        instructors: ["Terry Gaasterland, *BISB Program Chair*"]
-      - name: Lunch
-        type: break
-        start: '12:00 PM'
-        end: '1:00 PM'
+        location: RM 145
+        start: "10:30 AM"
+        end: "11:30 AM"
+        instructors: ["Glenn + Amber"]
       - name: "UAW Union Presentation"
         fullname: "UAW Union Presentation"
         type: program
-        location: MET 204
-        start: "1:00 PM"
-        end: "1:30 PM"
-      - name: "Ice-breakers"
-        fullname: "Ice-breakers"
-        type: mod
-        location: MET 204
-        start: '1:30 PM'
-        end: '2:30 PM'
-      - name: "Guest Speakers: How to choose an advisor/international student breakouts"
-        fullname: "Guest Speakers: How to choose an advisor/international student breakouts"
-        type: program
-        location: MET 204
-        start: '2:30 PM'
-        end: '3:30 PM'
-      - name: "Module 2: Course Recommendation"
-        type: mod
-        location: MET 204
-        start: 3:30 PM
-        end: 4:00 PM
-  - name: Tuesday
-    date: '2025-09-16'
-    events:
-      - name: DBMI Intro
-        type: program
-        start: '9:30 AM'
-        end: '9:45 AM'
-        location: MET 223
-        instructors: ['Amy Sitapati, *DBMI Director*']
-        description: 'For our BMI students, welcome! Dr. Amy Sitapti will introduce the Department of Biomedical Informatics (DBMI) at UCSD. Researchers from BISB and BMI often get to work together so this a great opportunity for both BISB and BMI students to learn more about the DBMI.'
-      - name: "Module 3: Introduction to Stats"
-        type: mod
-        location: MET 223
-        start: '9:45 AM'
-        end: '10:30 AM'
-      - name: "Module 4: Introduction to Machine Learning"
-        fullname: "Module 4: Introduction to Machine Learning"
-        type: mod
-        location: MET 223
-        start: '10:30 AM'
-        end: '11:30 AM'
-      - name: "Lunch"
-        type: break
-        start: '11:30 AM'
-        end: '1:00 PM'
-      - name: Ropes Course Activity
-        type: social 
-        start: '1:00 PM'
-        end: '5:00 PM'
-        location: UCSD Challenge Course (Eucalyptus Grove)
-        description: Read about [the course](https://recreation.ucsd.edu/adventures/the-course/)!
-  - name: Wednesday
-    date: '2025-09-17'
-    events:
-      - name: PhD-Level Scientific Communication
-        fullname: PhD-Level Scientific Communication
-        type: other
-        location: MET 141
-        start: '9:30 AM'
-        end: '10:30 AM'
-      - name: "Module 7A: Your Virtual Environment"
-        fullname: "Module 7A: Your Virtual Environment"
-        location: MET 141
-        type: mod
-        start: '10:45 AM'
-        end: '12:00 PM'
+        location: RM 145
+        start: "11:30 AM"
+        end: "12:00 PM"
       - name: Lunch
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-      - name: "Module 7B: Software - Part 2"
-        fullname: "Module 7B: Software - Part 2"
-        location: MET 141
-        type: mod
+      - name: "Ice Breakers"
+        fullname: "Ice Breakers"
+        type: social
+        location: RM 145
         start: '1:00 PM'
         end: '2:00 PM'
-      - name: "Predoctoral Fellowships"
-        fullname: "Getting Paid: Predoctoral Fellowships"
-        type: other
-        location: MET 141
+      - name: "Choose an Advisor/Rotations"
+        fullname: "Choose an Advisor/Rotations"
+        type: program
+        location: RM 145
         start: '2:00 PM'
+        end: '2:30 PM'
+      - name: "How to Get Paid (UC Path / T32 / Block)?"
+        fullname: "How to Get Paid (UC Path / T32 / Block)?"
+        type: program
+        location: RM 145
+        start: '2:30 PM'
         end: '3:00 PM'
-  - name: Thursday 
-    date: '2025-09-18'
+      - name: "Course Recommendations"
+        fullname: "Course Recommendations"
+        type: program
+        location: RM 145
+        start: '3:00 PM'
+        end: '3:30 PM'
+      - name: "International Student breakout"
+        type: program
+        location: RM 145
+        start: '3:30 PM'
+        end: '4:30 PM'
+        
+  - name: Tuesday
+    date: '2026-09-15'
     events:
-      - name: "Module 5: Bioinformatics Problem Sets"
-        fullname: "Module 5: Bioinformatics Problem Sets"
-        type: mod
-        location: MET 141
+      - name: DBMI Introduction
+        type: program
         start: '9:30 AM'
-        end: '10:30 AM'
-        description: "In this module, you and a partner will be given a relatively simple problem to solve from the [Rosalind Bioinformatics Project](https://urldefense.com/v3/__http://rosalind.info/about/__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-AP7ZzIY$ )’s textbook track and bioinformatics stronghold track. By the end of this module, you should: 1. Have a working solution for your problem prepared! 2. Have a short slide (in this presentation) explaining your code along with a fun fact about yourselves!"
-      - name: "Mental Health"
-        fullname: "Mental Health in Graduate School"
-        type: other
-        location: MET 141
-        start: '10:30 AM'
-        end: '11:00 AM'
-      - name: "Module 6: Data Science (AI & Plotting)"
-        fullname: "Module 6: Data Science (AI & Plotting)"
-        location: MET 141
+        end: '10:00 AM'
+        location: RM 145
+        instructors: ['Amy Sitapati, *DBMI Director*']
+        description: 'For our BMI students, welcome! Dr. Amy Sitapati will introduce the Department of Biomedical Informatics (DBMI) at UCSD. Researchers from BISB and BMI often get to work together so this is a great opportunity for both BISB and BMI students to learn more about the DBMI.'
+      - name: "Module 1: Introduction to Statistics"
         type: mod
+        location: RM 145
+        start: '10:00 AM'
+        end: '11:00 AM'
+      - name: "Module 2: Introduction to Machine Learning"
+        type: mod
+        location: RM 145
         start: '11:00 AM'
         end: '12:00 PM'
-      - name: Lunch
+      - name: "Lunch"
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-      - name: "Module 8: Intro to NGS and Benchwork"
-        type: mod
-        location: MET 141
+      - name: "Predoctoral Fellowships"
+        type: program
+        location: RM 145
         start: '1:00 PM'
         end: '2:00 PM'
-      - name: The BISB Guide to San Diego
-        type: other
-        location: MET 141
+      - name: "Module 3: Paired Programing"
+        type: mod
+        location: RM 145
         start: '2:00 PM'
-        end: '3:00 PM'
-  - name: Friday
-    date: '2025-09-19'
+        end: '3:30 PM'
+      - name: "BISB Guide to San Diego"
+        type: social
+        location: RM 145
+        start: '3:30 PM'
+        end: '5:00 PM'
+
+  - name: Wednesday
+    date: '2026-09-16'
     events:
-      - name: "Reproducible Bioinformatics"
-        fullname: "Module 9: Reproducible Bioinformatics"
-        location: MET 204
+      - name: "Mental Health (Molly)"
+        type: other
+        location: RM 145
+        start: '9:30 AM'
+        end: '10:00 AM'
+      - name: "Module 4: Virtual Environments"
+        location: RM 145
         type: mod
         start: '10:00 AM'
         end: '11:00 AM'
-      - name: "Formulating a Scientific Question"
-        fullname: "Module 10: Formulating a Scientific Question"
-        type: other
-        location: MET 204
+      - name: "Module 5: Software on a team"
+        location: RM 145
+        type: mod
         start: '11:00 AM'
         end: '12:00 PM'
+      - name: Lunch
+        type: break
+        start: '12:00 PM'
+        end: '1:00 PM'
+      - name: "Break for walk"
+        type: break
+        start: '1:00 PM'
+        end: '1:30 PM'
+      - name: Ropes Course Activity
+        type: social 
+        start: '1:30 PM'
+        end: '5:30 PM'
+        location: UCSD Challenge Course (Eucalyptus Grove)
+        description: Read about [the course](https://recreation.ucsd.edu/adventures/the-course/)!
+
+  - name: Thursday 
+    date: '2026-09-17'
+    events:
+      - name: "Formulating a Scientific Question"
+        type: other
+        location: RM 145
+        start: '9:30 AM'
+        end: '10:00 AM'
+      - name: "Module 6: Data Science (plotting/pandas)"
+        location: RM 145
+        type: mod
+        start: '10:00 AM'
+        end: '11:00 AM'
+      - name: "Module 7: Data Science (AI/agents)"
+        location: RM 145
+        type: mod
+        start: '11:00 AM'
+        end: '12:00 PM'
+      - name: Lunch
+        type: break
+        start: '12:00 PM'
+        end: '1:00 PM'
+      - name: "Module 8: PhD Level Scientific Communication"
+        type: mod
+        location: RM 145
+        start: '1:00 PM'
+        end: '2:00 PM'
+      - name: "Module 9: Introduction to NGS/Benchwork"
+        type: mod
+        location: RM 145
+        start: '2:00 PM'
+        end: '3:00 PM'
+      - name: "BISB community (Vineet) Wellness/Diversity"
+        type: other
+        location: RM 145
+        start: '3:00 PM'
+        end: '3:30 PM'
+      - name: "Module 10: nextflow + snakemake?"
+        type: mod
+        location: RM 145
+        start: '3:30 PM'
+        end: '4:30 PM'
+
+  - name: Friday
+    date: '2026-09-18'
+    events:
+      - name: "Module 11: Reproducible Bioinformatics"
+        location: MET Upper Auditorium
+        type: mod
+        start: '10:00 AM'
+        end: '11:00 AM'
       - name: "GBIC Reps"
         type: program
-        location: MET 204
-        start: "12:00 PM"
-        end: "12:30 PM"
-      - name: "Lunch + Exit Survey + Picture"
+        location: MET Upper Auditorium
+        start: "11:00 AM"
+        end: "11:30 AM"
+      - name: "Exit Survey"
+        type: program
+        location: MET Upper Auditorium
+        start: '11:30 AM'
+        end: '12:00 PM'
+      - name: "Lunch"
         type: break
-        start: '12:30 PM'
-        end: '1:45 PM'
-      - name: Program-wide Welcome Event
-        type: social
+        start: '12:00 PM'
+        end: '1:00 PM'
+      - name: "Break for people to walk back/drive"
+        fullname: "Break for people to walk back/drive - Avery will coordinate with Sanford staff"
+        type: break
         start: '1:00 PM'
-        end: '3:00 PM'
+        end: '2:30 PM'
+      - name: "Welcome Event @Sanford Consortium"
+        type: social
+        location: Sanford Consortium
+        start: '2:30 PM'
+        end: '5:30 PM'
 ---
