@@ -67,8 +67,8 @@ schedule:
         location: RM 145
         start: '2:00 PM'
         end: '2:30 PM'
-      - name: "How to Get Paid (UC Path / T32 / Block)?"
-        fullname: "How to Get Paid (UC Path / T32 / Block)?"
+      - name: "How to Get Paid"
+        fullname: "How to Get Paid?"
         type: program
         location: RM 145
         start: '2:30 PM'
@@ -128,7 +128,7 @@ schedule:
   - name: Wednesday
     date: '2026-09-16'
     events:
-      - name: "Mental Health (Molly)"
+      - name: "Mental Health"
         type: other
         location: RM 145
         start: '9:30 AM'
@@ -190,7 +190,7 @@ schedule:
         location: RM 145
         start: '2:00 PM'
         end: '3:00 PM'
-      - name: "BISB community (Vineet) Wellness/Diversity"
+      - name: "BISB community - Wellness/Diversity"
         type: other
         location: RM 145
         start: '3:00 PM'
