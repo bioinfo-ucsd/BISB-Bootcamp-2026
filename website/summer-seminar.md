@@ -22,7 +22,7 @@ If you are unable to attend a seminar or you would like to rewatch a talk, we wi
 
 Join recorded talks at: [https://ucsd.zoom.us/j/3102371470](https://ucsd.zoom.us/j/95841526554)
 
-![Summer Seminar Series Flyer]({{ site.baseurl }}/assets/images/suummer_seminar_series_2026)
+![Summer Seminar Series Flyer]({{ site.baseurl }}/assets/images/suummer_seminar_series_2026.png)
 
 {% assign seminars_data = site.seminars | where: 'title', nil | first %}
 {% for seminar in seminars_data.seminars %}
