@@ -24,7 +24,7 @@ Bootcamp's content spans the topics listed above and is delivered through lectur
 
 ## Location and Schedule
 
-Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 14, 2026 to Friday, September 18, 2026**, in **[MET](https://goo.gl/maps/eXQLH5v2zcRU8f8P8) (Monday: Focht (Fung Auditorium), Tuesday: CSE 4140, Wednesday: CSE 4140, Thursday: Focht (Fung Auditorium), Friday: Focht (Fung Auditorium))**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
+Bootcamp is held in the week prior to the start of Fall classes, from **Monday, September 14, 2026 to Friday, September 18, 2026**, in **[Powell-Foch Bioengineering Hall and the Computer Science and Engineering Building]([https://goo.gl/maps/eXQLH5v2zcRU8f8P8](https://www.google.com/maps/place/Powell-Focht+Bioengineering+Hall/@32.8816649,-117.2340876,186m/data=!3m1!1e3!4m6!3m5!1s0x80dc06c312e92063:0x69155f3051f5a596!8m2!3d32.8816331!4d-117.234368!16s%2Fg%2F1hg4s7kfg?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D)) (Monday: Focht (Fung Auditorium), Tuesday: CSE 4140, Wednesday: CSE 4140, Thursday: Focht (Fung Auditorium), Friday: Focht (Fung Auditorium))**. See the [Schedule Overview](schedule-overview.md) and [Schedule Details](schedule-details.md). *Please note the schedule is actively being developed and is subject to change.*
 
 ## Learn about BISB/BMI Research: Summer Seminar Series
 
