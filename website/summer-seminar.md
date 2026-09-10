@@ -16,7 +16,7 @@ If you are unable to attend a seminar or you would like to rewatch a talk, we wi
 ## Schedule
 
 *Seminars will take place on the following dates:*
-- **August 20th, 2026**: 12:00 PM-1:30 PDT
+- **August 20th, 2026**: 12:00 PM-1:30 PDT — *(Recording not available)*
 - **August 27th, 2026**: 12:00 PM-1:30 PM PDT — [Watch Recording](https://drive.google.com/file/d/1f_wUQyrJ_fIqOZxu_uvdthjzxZLCz8XI/view?usp=sharing)
 - **September 3rd, 2026**: 12:00 PM-1:30 PM PDT — [Watch Recording](https://drive.google.com/file/d/1eAPZQTwg3TgNxM8pOZ0lA5vmb1-CxZdY/view?usp=sharing)
 
